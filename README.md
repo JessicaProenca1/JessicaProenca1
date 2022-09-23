@@ -6,3 +6,16 @@
 #### 💔 Não gosto: feijão, gente aproveitadora, falta de empatia, já falei do feijão?
 
 #### 🤩 Esse é o meu GitHub e espero sempre atualizá-lo e me tornar uma desenvolvedora melhor!
+
+<div align="center">
+  <a href="https://github.com/JessicaProenca1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaProenca1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaProenca1&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🤔 O que estou aprendendo (nunca paramos de aprender!)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jessica-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" alt="Jessica-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img align="center" alt="Jessica-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
